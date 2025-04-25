@@ -58,7 +58,7 @@ Existing restaurant websites often lack real-time interactivity and backend mana
 
   EmailJS / SMTP for contact form
 
-Firebase or Twilio (optional) for notifications
+  Firebase or Twilio (optional) for notifications
 
 ## Website Setup:
 Step 1: Design the layout using Figma or wireframes.
@@ -68,26 +68,26 @@ Step 4: Connect contact forms and reservation system.
 Step 5: Deploy using Netlify / Vercel / Heroku.
 
 ## Usage:
-Users can browse the digital menu and view dishes.
+- Users can browse the digital menu and view dishes.
 
-Reserve a table through the booking section.
+- Reserve a table through the booking section.
 
-Place food orders online.
+- Place food orders online.
 
-Admin can log in to add new dishes, manage bookings, and check orders.
+- Admin can log in to add new dishes, manage bookings, and check orders.
 
-Customers can leave reviews and see contact/location info.
+- Customers can leave reviews and see contact/location info.
 
 ## Future Enhancements:
-Mobile App Integration for food delivery and reservations.
+- Mobile App Integration for food delivery and reservations.
 
-AI-Based Recommendations based on order history.
+- AI-Based Recommendations based on order history.
 
-Live Chat Support for customer assistance.
+- Live Chat Support for customer assistance.
 
-Multilingual Support for tourists.
+- Multilingual Support for tourists.
 
-Loyalty Program and digital coupons.
+- Loyalty Program and digital coupons.
 
 ## Conclusion:
 The Restaurant Website project enhances the restaurant’s digital presence by combining sleek design, real-time functionality, and user-friendliness. It simplifies restaurant management while providing a delightful experience for customers—making it an essential tool in the modern food industry.
